@@ -38,7 +38,7 @@ load_img = pygame.image.load('Assets/load_btn.png')
 
 #define game variables
 clicked = False
-level = 1
+level = 0
 
 #define colours
 white = (255, 255, 255)
